@@ -1,0 +1,8 @@
+/Manifest.toml
+/jetsavetest*.dat
+/demo.jl
+.vscode
+*.json
+/notebooks/*
+/statprof/*
+/debug/*
